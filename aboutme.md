@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Employment History 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Current Role : Maintenance Technician Daifuku North America
+-
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+IT support Engineer I, Amazon, November, 2021- July, 2023
+-
 
-What else do you need?
+Maintenance Technician, Amazon, March, 2021- November, 2021
+-
 
-### My story
+Transportation Associate, Amazon, November, 2020- March, 2021
+-
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Associate, Amazon July, 2020- November, 2020
+-
+
+Security Forces Member, United States Air Force July, 2015- August, 2018
+- 
