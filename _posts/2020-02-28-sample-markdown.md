@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actively looking for opportunities to develop skills in cybersecurity, system administration, and industrial controls
+title: Actively looking for opportunities 
 subtitle: Remote or Charlotte/Winston-salem/Greensboro area 
 comments: true
 author: Dylan
