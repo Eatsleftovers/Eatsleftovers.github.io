@@ -4,10 +4,10 @@ title: Projects
 subtitle: My projects and contributions
 ---
 ### Personal projects:
-[Link:](https://www.grace-mindset.com/)
+[Link:](https://www.grace-mindset.com/) Grace-mindset.com
 - This website is setup and managed by me through the AWS platform, it features a contact form and several pages. I have also setup the server to use https and setup an email client utilizing the websites domain. 
 
-[Link:](https://megagrading.com/)
+[Link:](https://megagrading.com/) Megagrading.com
 - this website is managed by godaddy I contributed to the design and layout of the website, I also setup the local networking for the office space for this company.
 
 ### Projects ive contributed to: 
