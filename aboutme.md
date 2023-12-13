@@ -3,8 +3,8 @@ layout: page
 title: About me
 subtitle: Employment History 
 ---
-Relevant Skills & Education 
-•	Python scripting experience, kali linux os experience	•	Training and mentoring 
+Relevant Skills & Education /n
+•	Python scripting experience, kali linux os experience	•	Training and mentoring \n
 •	Troubleshooting complex systems
 •	Technical customer support experience with on-call responsibilities
 •	Bash Scripting Experience
