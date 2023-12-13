@@ -22,7 +22,7 @@ author: Dylan Harrison
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - My Projects: "Eatsleftovers.github.io"
+    - My Projects: "MyProjects"
     - Resources : "https://www.markdowntutorial.com/"
   Author's home: "Eatsleftovers.github.io"
 
